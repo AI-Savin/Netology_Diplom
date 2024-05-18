@@ -16,7 +16,7 @@
     - [Load Balancer](#LB)
     - [Резервное копирование](#snapshot)
 ### Ansible
-- [Установка и настройка ansible](#ansible)
+- [Установка и настройка ansible](#cfg)
 - [NGINX](#web)
 - [Мониторинг](#zabbix)
 - Логи
@@ -181,7 +181,7 @@ export YC_FOLDER_ID=
 
 ## Ansible  
 
-### <a id="ansible">Установка и настройка ansible</a>  
+### <a id="cfg">Установка и настройка ansible</a>  
 
 устанавливаем ansible на локальном хосте где работали с terrafom  и настраиваем его на работу через bastion  
 

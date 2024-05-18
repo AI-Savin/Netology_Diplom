@@ -170,7 +170,13 @@ export YC_FOLDER_ID=
 
 **snapshot**  
 
+создаем в terraform блок с расписанием snapshots  
+
 ![snap](https://github.com/AI-Savin/Netology_Diplom/assets/149881259/7cea4203-10d3-48f1-9063-8461e85a9f91)  
+
+**проверяем на следующий день что снимки создались по расписанию**  
+
+![snap_work](https://github.com/AI-Savin/Netology_Diplom/assets/149881259/4da52588-0426-4fe1-83dd-b20867be9f1d)  
 
 
 ## Ansible  

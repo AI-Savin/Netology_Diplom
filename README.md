@@ -193,6 +193,7 @@ export YC_FOLDER_ID=
 **файл inventory**
 
 создаем файл hosts.ini c использованием FQDN имен серверов вместо ip  
+(т.к. DNS имя для ВМ bastion не регистрировалось глобально, то я просто использовал iр для доступа из интернета)  
 
 ![ans_inventori](https://github.com/AI-Savin/Netology_Diplom/assets/149881259/5ce63647-2701-44ff-8554-2a1d67f16eb0)  
 

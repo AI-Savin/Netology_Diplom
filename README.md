@@ -218,7 +218,7 @@ export YC_FOLDER_ID=
 
 **проверяем работу Load Balancer в web консоли YC**  
 
-видим что меняется ip backenda, значит балансировщик работает.  
+видим что меняется ip backend, значит балансировщик работает.  
 
 ![logs_work_balancer](https://github.com/AI-Savin/Netology_Diplom/assets/149881259/4d4d251f-1155-459c-83b7-7eefdca9cdba)  
 

@@ -11,9 +11,9 @@
 # Выполнение дипломной работы  
 ### Terraform
 - [Инфраструктура](#terraform)
-    - [Сеть](#VPC)
-    - [Группы безопасности](#SG)
-    - [Load Balancer](#LB)
+    - [Сеть](#net)
+    - [Группы безопасности](#group)
+    - [Load Balancer](#balancer)
     - [Резервное копирование](#snapshot)
 ### Ansible
 - [Установка и настройка ansible](#cfg)
@@ -105,7 +105,7 @@ export YC_FOLDER_ID=
 
 ![VM](https://github.com/AI-Savin/Netology_Diplom/assets/149881259/20547ee8-e272-4fd9-a294-b920226be8d2)  
 
-### <a id="VPC">Сеть</a>  
+### <a id="net">Сеть</a>  
 
  **VPC и subnet** 
 
@@ -113,7 +113,7 @@ export YC_FOLDER_ID=
 
 ![maps_VPC](https://github.com/AI-Savin/Netology_Diplom/assets/149881259/a41a67a6-1b8a-4fff-a76f-2a29e772f418)  
 
-### <a id="SG">Группы безопасности</a>  
+### <a id="group">Группы безопасности</a>  
 
 ![SG_ALL](https://github.com/AI-Savin/Netology_Diplom/assets/149881259/bd9eadc4-6246-41d6-8195-b31d6b9aa999)  
 
@@ -138,7 +138,7 @@ export YC_FOLDER_ID=
 
 ![sg_zabbix](https://github.com/AI-Savin/Netology_Diplom/assets/149881259/b46cd2ed-9f54-44ba-8a81-b3e84b7afb56)  
 
-### <a id="LB">Load Balancer</a>  
+### <a id="balancer">Load Balancer</a>  
 
 **Создаем Target Group**  
 
